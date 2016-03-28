@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AddCsClass</id>
+    <version>1.0.0.0</version>
+    <authors>Peter Gill</authors>
+    <owners>Peter Gill</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Command line tool to add a c# file to an existing c# project.</description>
+    <releaseNotes />
+    <tags>AddCsClass</tags>
+  </metadata>
+</package>
